@@ -6,7 +6,6 @@ Este proyecto es una aplicación CRUD (Crear, Leer, Actualizar, Eliminar) para g
 
 - [Instalación](#instalación)
 - [Uso](#uso)
-- [Estructura del Proyecto](#estructura-del-proyecto)
 - [API Endpoints](#api-endpoints)
 - [Validaciones](#validaciones)
 - [Dependencias](#dependencias)
